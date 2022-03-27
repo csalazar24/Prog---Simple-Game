@@ -164,6 +164,7 @@ class MainActivity : AppCompatActivity()
                     startNewGameButton.visibility = View.VISIBLE
                 }, 3000)
                 disableButtons()
+                temp = true
 
             }
        // }
